@@ -131,4 +131,4 @@ dist
 
 keys/
 
-postgres/
+/postgres
